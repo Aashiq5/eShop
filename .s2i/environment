@@ -1,1 +1,2 @@
-"DOTNET_STARTUP_PROJECT=src/eShop.AppHost/eShop.AppHost.csproj" 
+DOTNET_STARTUP_PROJECT=src/eShop.AppHost/eShop.AppHost.csproj
+ASPNETCORE_ENVIRONMENT=Production
